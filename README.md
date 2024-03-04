@@ -1,0 +1,1 @@
+# lojinha-api-automacao-restassured
